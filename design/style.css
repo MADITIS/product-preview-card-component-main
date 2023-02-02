@@ -122,11 +122,11 @@ body {
 }
 
 
-@media screen and (max-width: 680px) , (max-height: 300px){
+@media screen and (max-width: 680px) {
     .container {
         /* display: flex; */
         width:90vw;
-        height: 85vh;
+        height: 80vh;
         /* height: 20rem; */
         grid-template-columns: none;
         grid-template-rows: 1fr 1fr;
