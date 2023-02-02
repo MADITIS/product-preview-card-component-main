@@ -122,7 +122,7 @@ body {
 }
 
 
-@media screen and (max-width: 680px) , (orientation: landscape){
+@media screen and (max-width: 680px) , (max-height: 300px){
     .container {
         /* display: flex; */
         width:90vw;
