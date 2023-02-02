@@ -131,6 +131,7 @@ body {
         grid-template-columns: none;
         grid-template-rows: 1fr 1fr;
         /* flex-direction: column; */
+        justify-content: start;
     }
 
     .left-container {
