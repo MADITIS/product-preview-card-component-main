@@ -55,6 +55,7 @@ body {
     border-radius:5px;
     gap: 0.7rem;
     transition: all 0.3s ease-in-out;
+    font-weight: 700;
     /* margin-top: 1rem; */
 }
 
